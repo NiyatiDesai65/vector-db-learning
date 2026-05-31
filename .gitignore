@@ -1,0 +1,5 @@
+my_database/
+my_database1/
+__pycache__/
+.env
+*.pyc
