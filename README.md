@@ -21,8 +21,8 @@ A hands-on project to learn vector databases and semantic search using Python, C
 ## How to run
 pip install chromadb anthropic python-dotenv
 
-Create a .env file with your Anthropic API key:
-ANTHROPIC_API_KEY=your-key-here
+Create a .env file with Anthropic API key:
+ANTHROPIC_API_KEY=xxxxxxxxxx
 
 Then run any file:
 python basics.py
