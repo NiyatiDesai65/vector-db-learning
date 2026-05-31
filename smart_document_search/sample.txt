@@ -1,0 +1,11 @@
+Artificial Intelligence is the simulation of human intelligence by machines.
+AI is used in many fields including healthcare, finance, and transportation.
+Machine learning is a subset of AI that learns from data without being programmed.
+
+Deep learning uses neural networks with many layers to learn complex patterns.
+Neural networks are inspired by the human brain and consist of interconnected nodes.
+Deep learning is behind most modern AI breakthroughs like image recognition and language models.
+
+Natural Language Processing or NLP allows computers to understand human language.
+NLP is used in chatbots, translation, and sentiment analysis.
+Large language models like Claude are built using NLP and deep learning techniques.
